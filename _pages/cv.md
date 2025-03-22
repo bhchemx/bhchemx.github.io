@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,92 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Monash University, Melbourne, Australia</strong></span>
+    <span><strong>2022 - 2025 (expect)</strong></span>
+</div>
+* **PhD Candidate**
+* Supervisor
+  * Main Supervisor:	Prof. Joël Brugger (Monash University, <a href="https://scholar.google.com/citations?user=LWXkkmwAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
+  * 2nd Supervisor:	  Prof. Andrew S. Tomkins (Monash University, <a href="https://scholar.google.com.au/citations?user=QrVKsXsAAAAJ&hl=en">Google Scholar Link</a>)
+  * 3rd Supervisor:	  Dr. Yuan Mei (CSIRO, <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=QZ-_2l4AAAAJ&hl=en&oi=sra)">Google Scholar Link</a>)
+* Research Project
+  * Magmatic-hydrothermal mineral deposit system
+  * High-temperature and high-pressure mineral experiments.
+  * XAS (including HERFD [High-Energy-Resolution Fluorescence Detection]) analysis.
+  * In-situ XAS setup development
+  * Thermodynamic simulations and calculations
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Colorado School of Mines, Colorado, USA</strong></span>
+    <span><strong>2019 - 2020</strong></span>
+</div>
+* **Visiting Student**
+* Supervisor
+  * Associate Prof. Alexander P. Gysi (New Mexico Tech, <a href="https://scholar.google.com/citations?user=mlnv8CIAAAAJ&hl=en">Google Scholar Link</a>)
+* Research Project
+  * Numerical simulation and thermodynamics study (GEM Selektor 3) in elements behaviours, mineral assemblages changing, and hydrothermal features of iron oxide apatite (IOA) system.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>China University of Geosciences (CUG), Wuhan, China</strong></span>
+    <span><strong>2018 - 2021</strong></span>
+</div>
+* **Master of Science**
+* Supervisor
+  * Prof. Xinfu Zhao (China University of Geoscience, <a href="https://scholar.google.com/citations?user=RfXyjIAAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
+* Research Project
+  * Magmatic-hydrothermal mineral deposit system
+  * Ore genesis of the Iron-oxide Apatite (IOA) deposit.
+  * Magnetite trace elements machine learning study.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>China University of Geosciences (CUG), Wuhan, China</strong></span>
+    <span><strong>2014 - 2018</strong></span>
+</div>
+* **Bachelor of Engineering**
+* Major: Resource Prospecting Engineering (National Science Base-class)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<hr />
+
+# Academic Experiences
+
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>LKAB Kiruna Deposit, Kiruna, Sweden</strong></span>
+    <span><strong>2019.07 - 2019.08</strong></span>
+</div>
+* **Visiting / Fieldwork**
+* Research Project: Visit and co-work with Geochemistry Engineer in LKAB; Study the geological characteristics of Kiruna deposit underground and visit the drill core store; Fieldwork and collect samples from IOA deposits in the Kiruna and surrounding district.
+
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>University of Naples Federico II, Neaples, Italy</strong></span>
+    <span><strong>2017.07 - 2017.08</strong></span>
+</div>
+* **Summer Course / Visiting Student**
+* Subject: Nature Resources Exploration, Environment and Health.
+
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Academic Experiences</strong></span>
+    <span><strong>2016.06 - Present</strong></span>
+</div>
+* Awarded Student Bursary of the 30th International Applied Geochemistry Symposium (IAGS). 2024.10
+* Co-developing the famewoks XAS data processing code for ESRF-BM16 (with Dr. Mauro Rovezzi, Centre National de la Recherche Scientifique [CNRS])
+* Modified the setup of the flow-through reaction rig by adding an auto-adjusted pressure control system with capillary silicone oil pumps and customised coded controllers.
+* Exploring the role of CO2 in the gold mineralisation process: An insight from the thermodynamic point of view. (Under coding and investigation, in preparation)
+* Numerical Simulation of hydrothermal deposits brings insights into the metallogenic dynamics and hydrothermal evolution. (Work with Assoc. Prof. Alexander P. Gysi in New Mexico Tech. (In preparation)
+* Geochemical characteristics of magnetites in igneous systems, by using machine learning techniques: principal component analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), linear discriminant analysis (LDA), support vector machine (SVM), and receiver operating characteristic (ROC). (In preparation)
+* Participated in assembling, developing, and running the Optical Cathodoluminescence (OP-CL) Lab in State Key Laboratory, CUG.
+
+<hr />
+
+# Service and leadership
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Society of Economic Geologists (SEG) Student Chapter, Monash, Australia</strong></span>
+    <span><strong>2022.02 - 2023.02</strong></span>
+</div>
+* Treasurer
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Society of Economic Geologists (SEG) Student Chapter, CUG, China</strong></span>
+    <span><strong>2016.12 - 2020.10</strong></span>
+</div>
+* Consultant Initiator / President
