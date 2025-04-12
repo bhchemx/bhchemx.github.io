@@ -67,6 +67,8 @@ redirect_from:
 * This internship project would be linked with a current project which is a feasibility study for
 'Orange Hydrogen'. 
 
+<hr />
+
 # Academic Experiences
 
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">

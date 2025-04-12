@@ -14,14 +14,10 @@ redirect_from:
 <p> </p>
 # Update
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
-    <span>CSIRO Postgraduate Internship Program</span>
-    <span>Feb 2025 - Present</span>
-</div>
-<div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>2025 EMPG Conference</span>
-    <span>Abstract Submitted</span>
+    <span>2025.06</span>
 </div>
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>2025 Goldschmidt Conference</span>
-    <span>Abstract Submitted</span>
+    <span>2025.07</span>
 </div>
