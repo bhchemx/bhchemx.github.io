@@ -57,6 +57,16 @@ redirect_from:
 
 <hr />
 
+# Work Experiences
+
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>'Orange Hydrogen' Internship, Melbourn, Australia</strong></span>
+    <span><strong>2025.02 - Present</strong></span>
+</div>
+* **Internship**
+* This internship project would be linked with a current project which is a feasibility study for
+'Orange Hydrogen'. 
+
 # Academic Experiences
 
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
