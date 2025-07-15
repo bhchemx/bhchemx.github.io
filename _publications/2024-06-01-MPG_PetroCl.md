@@ -1,6 +1,7 @@
 ---
 title: "Hydrothermal alteration mechanisms of an Archaean metamorphic buried hill and the models for reservoir zonation, Bozhong depression, Bohai Bay Basin, China"
 collection: publications
+boardcast: loud
 status: published
 category: manuscripts
 link: 'https://www.sciencedirect.com/science/article/pii/S0264817224001557?via%3Dihub'

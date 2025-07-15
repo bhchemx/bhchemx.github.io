@@ -27,22 +27,33 @@
     {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline" style="text-align: justify;">
-      {% if post.status == 'mute_dough' %}
-        {{ title }}
-      {% elsif post.status == 'dough' %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink" size=3>{{ title }}</a>
-      {% elsif post.status == 'prep' %}
-        {{ title }}
-      {% elsif post.status == 'submitted' %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% elsif post.status == 'revised' %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% elsif post.status == 'accepted' %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% elsif post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% if post.collection == 'dough' %}
+        {% if post.boardcast == 'mute' %}
+          {{ title }}
+        {% elsif post.boardcast == 'loud' %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink" size=3>{{ title }}</a>
+      {% elsif post.collection == 'publications' %}
+        {% if post.category == 'manuscripts' %}
+          {% if post.boardcast == 'mute' %}
+            {{ title }}
+          {% elsif post.boardcast == 'loud' %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% elsif post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        {% elsif post.category == 'conferences' %}
+          {% if post.boardcast == 'mute' %}
+            {{ title }}
+          {% elsif post.boardcast == 'loud' %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% elsif post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        {% endif %}
       {% endif %}
     </h3>
     

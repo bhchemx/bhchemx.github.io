@@ -1,6 +1,7 @@
 ---
 title: "Origin of high-Ti magnetite in magmatic-hydrothermal systems: evidence from iron oxide-apatite (IOA) deposits of Eastern China"
 collection: publications
+boardcast: loud
 status: published
 category: manuscripts
 link: 'https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/117/7/1613/616328/The-Origin-and-Discrimination-of-High-Ti-Magnetite'

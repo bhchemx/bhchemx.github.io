@@ -1,7 +1,8 @@
 ---
 title: "The gangue sponge: implications for in-situ/heap leaching of chalcopyrite"
 collection: publications
-status: submitted
+boardcast: loud
+status: accepted
 category: manuscripts
 excerpt: ""
 permalink: /publication/2025-01-10-AppGeochem-Gauge

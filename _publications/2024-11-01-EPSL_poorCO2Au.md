@@ -1,12 +1,13 @@
 ---
 title: "Giant mesozonal lode gold deposits form from CO<sub>2</sub>-poor meteoric water in long-lived fault systems"
 collection: publications
+boardcast: loud
 status: submitted
 category: manuscripts
 excerpt: ""
 permalink: /publication/2024-11-01-NatCEE_poorCO2Au
 authors: "Wei Li, Gui-Qing Xie, Bin Fu, Joël Brugger, Andrew G. Tomkins, Jing-Wen Mao, <strong>Bin Hu</strong>, Christopher R. Voisey"
-venue: 'Earth and Planetary Science Letters'
+venue: 'Economic Geology'
 date: 2024-11-01
 ---
 

@@ -58,7 +58,6 @@ layout: default
               Oral Presentation | <i>{{ page.venue }}</i>, {{ page.locationcity }}, {{ page.locationcountry }}, {{ page.date | default: "1900-01-01" | date: "%b %Y" }}</p>
             {% elsif page.status == 'poster' %}
               Poster | <i>{{ page.venue }}</i>, {{ page.locationcity }}, {{ page.locationcountry }}, {{ page.date | default: "1900-01-01" | date: "%b %Y" }}</p>
-
             {% endif %}
           {% endif %}
         {% elsif page.date %}
