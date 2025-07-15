@@ -32,6 +32,7 @@
           {{ title }}
         {% elsif post.boardcast == 'loud' %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink" size=3>{{ title }}</a>
+        {% endif %}
       {% elsif post.collection == 'publications' %}
         {% if post.category == 'manuscripts' %}
           {% if post.boardcast == 'mute' %}
