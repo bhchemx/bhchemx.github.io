@@ -37,17 +37,29 @@ layout: default
         {% if page.collection == 'dough' %}
           <p> Code section {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' %}
-          <p>{{page.authors}}<br>
-          {% if page.status == 'published' %}
-            Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-          {% elsif page.status == 'submitted' %}
-            Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%b %Y" }}</p>
-          {% elsif page.status == 'revised' %}
-            Revised version back to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-          {% elsif page.status == 'accepted' %}
-            Accepted by <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-          {% elsif page.status == 'prep' %}
-            In preparation, aiming for <i>{{ page.venue }}</i></p>
+          {% if page.category == 'manuscripts' %}
+            <p>{{page.authors}}<br>
+            {% if page.status == 'published' %}
+              Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+            {% elsif page.status == 'submitted' %}
+              Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%b %Y" }}</p>
+            {% elsif page.status == 'revised' %}
+              Revised version back to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+            {% elsif page.status == 'accepted' %}
+              Accepted by <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+            {% elsif page.status == 'prep' %}
+              In preparation, aiming for <i>{{ page.venue }}</i></p>
+            {% endif %}
+          {% elsif page.category == 'conferences' %}
+            <p>{{page.authors}}<br>
+            {% if page.status == 'accepted' %}
+              Accepted by <i>{{ page.venue }}</i>, {{ page.locationcity }}, {{ page.locationcountry }}</p>
+            {% elsif page.status == 'oral' %}
+              Oral Presentation | <i>{{ page.venue }}</i>, {{ page.locationcity }}, {{ page.locationcountry }}, {{ page.date | default: "1900-01-01" | date: "%b %Y" }}</p>
+            {% elsif page.status == 'poster' %}
+              Poster | <i>{{ page.venue }}</i>, {{ page.locationcity }}, {{ page.locationcountry }}, {{ page.date | default: "1900-01-01" | date: "%b %Y" }}</p>
+
+            {% endif %}
           {% endif %}
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
