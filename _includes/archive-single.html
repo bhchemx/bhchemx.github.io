@@ -67,17 +67,23 @@
         {% if post.authors%}
         {{post.authors}}<br>
         {% endif %}
-        {% if post.status == 'published' %}
-          <font color="#87888a", size=3>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
-        {% elsif post.status == 'submitted' %}
-          <font color="#87888a", size=3>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
-        {% elsif post.status == 'revised' %}
-          <font color="#87888a", size=3>Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
-        {% elsif post.status == 'accepted' %}
-          <font color="#87888a", size=3>Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
-        {% elsif post.status == 'prep' %}
-          <font color="#87888a", size=3>In preparation, aiming for <i>{{ post.venue }}</i></font>
-        {% elsif post.status == 'mute_dough' %}
+        {% if post.collection ==  'publications' %}
+          {% if post.status == 'published' %}
+            <font color="#87888a", size=3>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
+          {% elsif post.status == 'submitted' %}
+            <font color="#87888a", size=3>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
+          {% elsif post.status == 'revised' %}
+            <font color="#87888a", size=3>Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
+          {% elsif post.status == 'accepted' %}
+            <font color="#87888a", size=3>Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
+          {% elsif post.status == 'oral' %}
+            <font color="#87888a", size=3>Oral Presentation in <i>{{ post.venue }}</i>, {{ post.locationcity }}, {{ post.locationcountry }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
+          {% elsif post.status == 'poster' %}
+            <font color="#87888a", size=3>Poster Presentation in  <i>{{ post.venue }}</i>, {{ post.locationcity }}, {{ post.locationcountry }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
+          {% elsif post.status == 'prep' %}
+            <font color="#87888a", size=3>In preparation, aiming for <i>{{ post.venue }}</i></font>
+          {% endif %}
+        {% elsif post.collection == 'dough' %}
           {% if post.category == 'synproposal'%}
             <font color="#87888a", size=3> {{ post.beamloc }} | {{ post.method }}</font>
           {% elsif post.category == code %}
