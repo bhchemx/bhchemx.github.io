@@ -13,11 +13,12 @@ redirect_from:
 <p> </p>
 <p> </p>
 # Update
+<!---
+
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
-    <span>2025 EMPG Conference</span>
-    <span>2025.06</span>
+    <span> EVENT </span>
+    <span> TIMES </span>
 </div>
-<div style="display: flex; justify-content: space-between; font-size: 1em;">
-    <span>2025 Goldschmidt Conference</span>
-    <span>2025.07</span>
-</div>
+
+
+--->
