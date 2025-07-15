@@ -1,6 +1,7 @@
 ---
 title: "FDMNES Structures Validation"
 collection: dough
+boardcast: mute
 status: 'mute_dough'
 category: code
 permalink: /dough/2024-01-02-FDMrunner

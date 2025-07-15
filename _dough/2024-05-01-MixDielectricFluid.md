@@ -1,6 +1,7 @@
 ---
 title: "Dielectric constant calculations of mixed solvents"
 collection: dough
+boardcast: mute
 status: 'mute_dough'
 category: code
 permalink: /dough/2024-05-01-MixDielectricFluid
