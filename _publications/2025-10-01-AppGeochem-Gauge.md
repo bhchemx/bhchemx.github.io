@@ -5,7 +5,7 @@ boardcast: loud
 status: published
 category: manuscripts
 excerpt: ""
-permalink: /publication/2025-01-10-AppGeochem-Gauge
+permalink: /publication/2025-10-01-AppGeochem-Gauge
 link: 'https://www.sciencedirect.com/science/article/pii/S0883292725002239?dgcid=rss_sd_all'
 authors: "Mareike Rosemann, Barbara Etschmann, Luis Verdugo, Kalotina Geraki, Nick D. Owen, Nicolas Meisser, <strong>Bin Hu</strong>, Luke Vollert, John O’Callaghan, Joël Brugger"
 venue: 'Applied Geochemistry'
