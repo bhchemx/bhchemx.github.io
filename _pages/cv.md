@@ -20,7 +20,7 @@ redirect_from:
   * Prof. Thomas Driesner (ETH Zürich, <a href="https://www.researchgate.net/profile/Thomas-Driesner">ResearchGate Link</a>)
 
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
-    <span><strong>The Commonwealth Scientific and Industrial Research Organisation, Melbourn, Australia</strong></span>
+    <span><strong>The Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia</strong></span>
     <span><strong>2025.02 - 2025.10</strong></span>
 </div>
 * **Internship**
@@ -31,7 +31,7 @@ redirect_from:
 # Education
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Monash University, Melbourne, Australia</strong></span>
-    <span><strong>2022 - 2025 (expect)</strong></span>
+    <span><strong>2022 - 2025 (under review)</strong></span>
 </div>
 * **PhD Candidate**
 * Supervisor
