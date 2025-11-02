@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+# Work
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>ETH Zürich</strong></span>
+    <span><strong>2025 - Present</strong></span>
+</div>
+* **Postdoctoral researcher**
+* Supervisor
+  * Prof. Thomas Driesner (ETH Zürich, <a href="https://www.researchgate.net/profile/Thomas-Driesner">ResearchGate Link</a>)
+* Research Project
+  * High P-T Experiments
+
 # Education
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Monash University, Melbourne, Australia</strong></span>
