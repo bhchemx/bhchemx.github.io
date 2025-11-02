@@ -12,20 +12,19 @@ redirect_from:
 # Work Experiences
 
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
-    <span><strong>'Orange Hydrogen' Internship, Melbourn, Australia</strong></span>
-    <span><strong>2025.02 - 2025.10</strong></span>
-</div>
-* **Internship**
-* This internship project would be linked with a current project which is a feasibility study for
-'Orange Hydrogen'. 
-
-<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
-    <span><strong>ETH Zürich</strong></span>
+    <span><strong>ETH Zürich, Zürich, Switzerland</strong></span>
     <span><strong>2025 - Present</strong></span>
 </div>
 * **Postdoctoral researcher**
 * Supervisor
   * Prof. Thomas Driesner (ETH Zürich, <a href="https://www.researchgate.net/profile/Thomas-Driesner">ResearchGate Link</a>)
+
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>The Commonwealth Scientific and Industrial Research Organisation, Melbourn, Australia</strong></span>
+    <span><strong>2025.02 - 2025.10</strong></span>
+</div>
+* **Internship**
+* This internship project would be linked with a current project which is a feasibility study for 'Orange Hydrogen'. 
 
 <hr />
 
