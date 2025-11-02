@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-# Work
+# Work Experiences
+
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>'Orange Hydrogen' Internship, Melbourn, Australia</strong></span>
+    <span><strong>2025.02 - 2025.10</strong></span>
+</div>
+* **Internship**
+* This internship project would be linked with a current project which is a feasibility study for
+'Orange Hydrogen'. 
+
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>ETH Zürich</strong></span>
     <span><strong>2025 - Present</strong></span>
@@ -17,8 +26,9 @@ redirect_from:
 * **Postdoctoral researcher**
 * Supervisor
   * Prof. Thomas Driesner (ETH Zürich, <a href="https://www.researchgate.net/profile/Thomas-Driesner">ResearchGate Link</a>)
-* Research Project
-  * High P-T Experiments
+
+
+<hr />
 
 # Education
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
@@ -65,18 +75,6 @@ redirect_from:
 </div>
 * **Bachelor of Engineering**
 * Major: Resource Prospecting Engineering (National Science Base-class)
-
-<hr />
-
-# Work Experiences
-
-<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
-    <span><strong>'Orange Hydrogen' Internship, Melbourn, Australia</strong></span>
-    <span><strong>2025.02 - Present</strong></span>
-</div>
-* **Internship**
-* This internship project would be linked with a current project which is a feasibility study for
-'Orange Hydrogen'. 
 
 <hr />
 
