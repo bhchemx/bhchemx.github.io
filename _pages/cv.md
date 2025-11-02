@@ -27,7 +27,6 @@ redirect_from:
 * Supervisor
   * Prof. Thomas Driesner (ETH Zürich, <a href="https://www.researchgate.net/profile/Thomas-Driesner">ResearchGate Link</a>)
 
-
 <hr />
 
 # Education
