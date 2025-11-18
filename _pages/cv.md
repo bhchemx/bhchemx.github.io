@@ -26,6 +26,7 @@ redirect_from:
 * **Internship**
 * This internship project would be linked with a current project which is a feasibility study for 'Orange Hydrogen'. 
 
+<br></br>
 <hr />
 
 # Education
