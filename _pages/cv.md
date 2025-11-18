@@ -26,6 +26,7 @@ redirect_from:
 * **Internship**
 * This internship project would be linked with a current project which is a feasibility study for 'Orange Hydrogen'. 
 
+<br>
 <hr />
 <br>
 
@@ -75,6 +76,7 @@ redirect_from:
 * **Bachelor of Engineering**
 * Major: Resource Prospecting Engineering (National Science Base-class)
 
+<br>
 <hr />
 <br>
 
@@ -106,6 +108,7 @@ redirect_from:
 * Geochemical characteristics of magnetites in igneous systems, by using machine learning techniques: principal component analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), linear discriminant analysis (LDA), support vector machine (SVM), and receiver operating characteristic (ROC). (In preparation)
 * Participated in assembling, developing, and running the Optical Cathodoluminescence (OP-CL) Lab in State Key Laboratory, CUG.
 
+<br>
 <hr />
 <br>
 
