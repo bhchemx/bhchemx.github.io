@@ -26,8 +26,8 @@ redirect_from:
 * **Internship**
 * This internship project would be linked with a current project which is a feasibility study for 'Orange Hydrogen'. 
 
-<br></br>
 <hr />
+<br>
 
 # Education
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
@@ -76,6 +76,7 @@ redirect_from:
 * Major: Resource Prospecting Engineering (National Science Base-class)
 
 <hr />
+<br>
 
 # Academic Experiences
 
@@ -106,6 +107,7 @@ redirect_from:
 * Participated in assembling, developing, and running the Optical Cathodoluminescence (OP-CL) Lab in State Key Laboratory, CUG.
 
 <hr />
+<br>
 
 # Service and leadership
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
