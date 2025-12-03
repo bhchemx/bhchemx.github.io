@@ -24,6 +24,10 @@ redirect_from:
     <span><strong>2025.02 - 2025.10</strong></span>
 </div>
 * **Internship**
+* Supervisor
+  * Dr. Margaux Le Vaillant (CSIRO, <a href="https://people.csiro.au/l/m/margaux-levaillant">CSIRO Homepage</a>)
+  * Dr. Yanlu Xing (CSIRO, <a href="https://people.csiro.au/x/y/yanlu-xing">CSIRO Homepage</a>, <a href="https://scholar.google.com/citations?user=NGzOyvoAAAAJ&hl=en">Google Scholar</a>)
+  * Dr. Melissa Duque (CSIRO, <a href="https://scholar.google.com/citations?user=VhgSm_oAAAAJ&hl=en">Google Scholar</a>)
 * This internship project would be linked with a current project which is a feasibility study for 'Orange Hydrogen'. 
 
 <br>
