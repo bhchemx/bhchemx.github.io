@@ -37,7 +37,7 @@ redirect_from:
 # Education
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Monash University, Melbourne, Australia</strong></span>
-    <span><strong>2022 - 2025 (under review)</strong></span>
+    <span><strong>2022 - Present (under review)</strong></span>
 </div>
 * **PhD Candidate**
 * Supervisor
