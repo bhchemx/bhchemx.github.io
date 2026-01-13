@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-      My research focuses on unravelling the elements geochemical behaviours in magmatic-hydrothermal systems. It integrates advanced synchrotron <em>in-situ</em> X-ray Absorption Spectroscopy (XAS) techniques, high P/T experiments, thermodynamic modelling, and numerical simulations to investigate the mechanisms of ore formation under high-T/P conditions. 
+      I'm currently a Postdoctoral Researcher at ETH Zürich. My research focuses on unravelling the elements geochemical behaviours in magmatic-hydrothermal systems. It integrates advanced synchrotron <em>in-situ</em> X-ray Absorption Spectroscopy (XAS) techniques, high P/T experiments, thermodynamic modelling, and numerical simulations to investigate the mechanisms of ore formation under high-T/P conditions. 
     </span>
 </div>
 
