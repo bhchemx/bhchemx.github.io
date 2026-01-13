@@ -22,19 +22,10 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-        Doctoral Thesis Submit
+        Speciation of Niobium in hydrothermal fluids - GCA Accepted <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">More</a>
     </span>
     <span>
-        2025.10.01
-    </span>
-</div>
-
-<div style="display: flex; justify-content: space-between; font-size: 1em;">
-    <span>
-        ETH zürich Postdoc Researcher
-    </span>
-    <span>
-        2025.10.28
+        2026.01.12
     </span>
 </div>
 
