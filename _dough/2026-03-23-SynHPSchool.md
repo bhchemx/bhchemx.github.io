@@ -8,5 +8,5 @@ permalink: /dough/2026-03-23-SynHPSchool
 date: 2026-03-23
 beamloc: '2026｜ESRF'
 beamline: 'EBS Hutch'
-method: EBS｜High-Pressure Techniques School (Upcoming)
+method: EBS｜High-Pressure Techniques School
 ---
