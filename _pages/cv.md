@@ -26,8 +26,8 @@ redirect_from:
 * **Internship**
 * Supervisor
   * Dr. Margaux Le Vaillant (CSIRO, <a href="https://people.csiro.au/l/m/margaux-levaillant">CSIRO Homepage</a>)
-  * Dr. Yanlu Xing (CSIRO, <a href="https://people.csiro.au/x/y/yanlu-xing">CSIRO Homepage</a>, <a href="https://scholar.google.com/citations?user=NGzOyvoAAAAJ&hl=en">Google Scholar</a>)
-  * Dr. Melissa Duque (CSIRO, <a href="https://scholar.google.com/citations?user=VhgSm_oAAAAJ&hl=en">Google Scholar</a>)
+  * Dr. Yanlu Xing (CSIRO, <a href="https://people.csiro.au/x/y/yanlu-xing">CSIRO Homepage</a>, <a href="https://scholar.google.com/citations?user=NGzOyvoAAAAJ&hl=en">Google Scholar Link</a>)
+  * Dr. Melissa Duque (CSIRO, <a href="https://scholar.google.com/citations?user=VhgSm_oAAAAJ&hl=en">Google Scholar Link</a>)
 * This internship project would be linked with a current project which is a feasibility study for 'Orange Hydrogen'. 
 
 <br>
@@ -37,9 +37,9 @@ redirect_from:
 # Education
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Monash University, Melbourne, Australia</strong></span>
-    <span><strong>2022 - Present (under review)</strong></span>
+    <span><strong>2022 - 2026</strong></span>
 </div>
-* **PhD Candidate**
+* **Doctorate**
 * Supervisor
   * Main Supervisor:	Prof. Joël Brugger (Monash University, <a href="https://scholar.google.com/citations?user=LWXkkmwAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
   * 2nd Supervisor:	  Prof. Andrew S. Tomkins (Monash University, <a href="https://scholar.google.com.au/citations?user=QrVKsXsAAAAJ&hl=en">Google Scholar Link</a>)
