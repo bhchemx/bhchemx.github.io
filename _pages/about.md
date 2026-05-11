@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi I'm Bin Hu"
+title: "Hi, I'm Bin Hu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,9 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-      I'm currently a postdoctoral researcher at ETH Zürich currently.<br>
-      My research focuses on geochemistry and synchrotron.<br>
-      I study geoscience.<br>
+      I'm currently a postdoctoral researcher at ETHz.<br>
+      My research focuses on geochemistry.<br>
+      I study geoscience and synchrotron.<br>
     </span>
 </div>
 
