@@ -17,10 +17,10 @@ redirect_from:
 </div>
 * **Postdoctoral researcher**
 * Supervisor
-  * Prof. Thomas Driesner (ETH Zürich, <a href="https://www.researchgate.net/profile/Thomas-Driesner">ResearchGate Link</a>)
+  * Prof. Dr. Thomas Driesner (ETH Zürich, <a href="https://www.researchgate.net/profile/Thomas-Driesner">ResearchGate Link</a>)
 
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
-    <span><strong>The Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia</strong></span>
+    <span><strong>Commonwealth Scientific and Industrial Research Organisation, Melbourne, Australia</strong></span>
     <span><strong>2025.02 - 2025.10</strong></span>
 </div>
 * **Internship**
@@ -41,9 +41,9 @@ redirect_from:
 </div>
 * **Doctorate**
 * Supervisor
-  * Main Supervisor:	Prof. Joël Brugger (Monash University, <a href="https://scholar.google.com/citations?user=LWXkkmwAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
-  * 2nd Supervisor:	  Prof. Andrew S. Tomkins (Monash University, <a href="https://scholar.google.com.au/citations?user=QrVKsXsAAAAJ&hl=en">Google Scholar Link</a>)
-  * 3rd Supervisor:	  Dr. Yuan Mei (CSIRO, <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=QZ-_2l4AAAAJ&hl=en&oi=sra)">Google Scholar Link</a>)
+  * Prof. Dr. Joël Brugger (Monash University, <a href="https://scholar.google.com/citations?user=LWXkkmwAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
+  * Prof. Dr. Andrew S. Tomkins (Monash University, <a href="https://scholar.google.com.au/citations?user=QrVKsXsAAAAJ&hl=en">Google Scholar Link</a>)
+  * Dr. Yuan Mei (CSIRO, <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=QZ-_2l4AAAAJ&hl=en&oi=sra)">Google Scholar Link</a>)
 * Research Project
   * Magmatic-hydrothermal mineral deposit system
   * High-temperature and high-pressure mineral experiments.
