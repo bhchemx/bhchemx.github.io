@@ -11,9 +11,9 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-      I'm currently a postdoctoral researcher at ETH Zürich currently. 
-      My research focuses on geochemistry.
-      I study geoscience
+      I'm currently a postdoctoral researcher at ETH Zürich currently.<br>
+      My research focuses on geochemistry and synchrotron.<br>
+      I study geoscience.<br>
     </span>
 </div>
 
