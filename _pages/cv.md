@@ -57,7 +57,7 @@ redirect_from:
 </div>
 * **Visiting Student**
 * Supervisor
-  * Associate Prof. Alexander P. Gysi (New Mexico Tech, <a href="https://scholar.google.com/citations?user=mlnv8CIAAAAJ&hl=en">Google Scholar Link</a>)
+  * Associate Prof. Dr. Alexander P. Gysi (New Mexico Tech, <a href="https://scholar.google.com/citations?user=mlnv8CIAAAAJ&hl=en">Google Scholar Link</a>)
 * Research Project
   * Numerical simulation and thermodynamics study (GEM Selektor 3) in elements behaviours, mineral assemblages changing, and hydrothermal features of iron oxide apatite (IOA) system.
 
@@ -67,7 +67,7 @@ redirect_from:
 </div>
 * **Master of Science**
 * Supervisor
-  * Prof. Xinfu Zhao (China University of Geoscience, <a href="https://scholar.google.com/citations?user=RfXyjIAAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
+  * Prof. Dr. Xinfu Zhao (China University of Geoscience, <a href="https://scholar.google.com/citations?user=RfXyjIAAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
 * Research Project
   * Magmatic-hydrothermal mineral deposit system
   * Ore genesis of the Iron-oxide Apatite (IOA) deposit.
