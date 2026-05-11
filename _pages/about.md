@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi I'm Bin :)"
+title: "Hi I'm Bin Hu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,9 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-      I'm currently a Postdoctoral Researcher at ETH Zürich. My research focuses on unravelling the elements geochemical behaviours in magmatic-hydrothermal systems. It integrates advanced synchrotron <em>in-situ</em> X-ray Absorption Spectroscopy (XAS) techniques, high P/T experiments, thermodynamic modelling, and numerical simulations to investigate the mechanisms of ore formation under high-T/P conditions. 
+      I'm currently a postdoctoral researcher at ETH Zürich currently. 
+      My research focuses on geochemistry.
+      I study geoscience
     </span>
 </div>
 
@@ -22,10 +24,10 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-        Speciation of Niobium in hydrothermal fluids - Accepted - <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Read More</a>
+        Speciation of Niobium in hydrothermal fluids - Published - <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Read More</a>
     </span>
     <span>
-        2026.01.12
+        2026.01.16
     </span>
 </div>
 
