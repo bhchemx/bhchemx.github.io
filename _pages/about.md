@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Bin Hu"
+title: "你好，我是胡斌 Hi, I'm Bin Hu"
 author_profile: true
 redirect_from: 
   - /about/
