@@ -31,8 +31,6 @@ redirect_from:
     </span>
 </div>
 
-
-
 <!---
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
@@ -41,3 +39,12 @@ redirect_from:
 </div>
 
 --->
+
+<div style="display: flex; justify-content: space-between; font-size: 1em;">
+    <span>
+        Reconciling spectroscopy and solubility constraints on niobium speciation in hydrothermal fluids. Reply to Ding and Chou Comment on Hu et al. (2026), Speciation of niobium in hydrothermal fluids. - Published - Online Soon <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Original Paper</a>
+    </span>
+    <span>
+        2026.01.16
+    </span>
+</div>
