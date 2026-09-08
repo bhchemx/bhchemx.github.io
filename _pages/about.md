@@ -44,6 +44,6 @@ redirect_from:
         Reconciling spectroscopy and solubility constraints on Nb speciation - Published - <a href = "https://bhchemx.github.io/publication/2026-06-03-GCA-Nb">Read More</a>
     </span>
     <span>
-        2026.06.03
+        2026.09.08
     </span>
 </div>
