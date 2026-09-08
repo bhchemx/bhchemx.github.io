@@ -30,7 +30,6 @@ redirect_from:
         2026.01.16
     </span>
 </div>
-
 <!---
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
@@ -42,7 +41,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-        [Reply] Reconciling spectroscopy and solubility constraints on Nb speciation. - Published - Online Soon <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Original Paper</a>
+        Reconciling spectroscopy and solubility constraints on Nb speciation - Published - <a href = "https://bhchemx.github.io/publication/2026-06-03-GCA-Nb">Read More</a>
     </span>
     <span>
         2026.06.03
