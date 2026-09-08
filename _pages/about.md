@@ -38,7 +38,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-        <b>2026.00.08</b>
+        <b>2026.09.08</b>
     </span>
 </div>
 
