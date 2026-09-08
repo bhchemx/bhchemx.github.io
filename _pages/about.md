@@ -24,7 +24,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-        2026.01.16
+        <b>2026.01.16</b>
     </span>
 </div>
 
