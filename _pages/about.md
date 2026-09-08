@@ -24,10 +24,13 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
-        Speciation of Niobium in hydrothermal fluids - Published - <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Read More</a>
-    </span>
-    <span>
         2026.01.16
+    </span>
+</div>
+
+<div style="display: flex; justify-content: space-between; font-size: 1em;">
+    <span>
+        Speciation of Niobium in hydrothermal fluids - Published - <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Read More</a>
     </span>
 </div>
 <!---
