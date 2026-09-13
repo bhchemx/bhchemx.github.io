@@ -16,8 +16,8 @@ redirect_from:
       I study geoscience and synchrotron.<br>
     </span>
 </div>
-
 <br>
+
 <hr />
 <br>
 # Update
@@ -35,7 +35,7 @@ redirect_from:
         Reconciling spectroscopy and solubility constraints on Nb speciation - Published - <a href = "https://bhchemx.github.io/publication/2026-06-03-GCA-Nb">Read More</a>
     </span>
 </div>
-<!------------------------------------------------------------->
+<br><!------------------------------------------------------------->
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
     <span>
