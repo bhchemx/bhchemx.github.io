@@ -22,18 +22,6 @@ redirect_from:
 <br>
 # Update
 
-<div style="display: flex; justify-content: space-between; font-size: 1em;">
-    <span>
-        <b>2026.01.16</b>
-    </span>
-</div>
-
-<div style="display: flex; justify-content: space-between; font-size: 1em;">
-    <span>
-        Speciation of Niobium in hydrothermal fluids - Published - <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Read More</a>
-    </span>
-</div>
-
 <!------------------------------------------------------------->
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
@@ -47,14 +35,16 @@ redirect_from:
         Reconciling spectroscopy and solubility constraints on Nb speciation - Published - <a href = "https://bhchemx.github.io/publication/2026-06-03-GCA-Nb">Read More</a>
     </span>
 </div>
-
-
-
-<!---
+<!------------------------------------------------------------->
 
 <div style="display: flex; justify-content: space-between; font-size: 1em;">
-    <span> EVENT </span>
-    <span> TIMES </span>
+    <span>
+        <b>2026.01.16</b>
+    </span>
 </div>
 
---->
+<div style="display: flex; justify-content: space-between; font-size: 1em;">
+    <span>
+        Speciation of Niobium in hydrothermal fluids - Published - <a href = "https://bhchemx.github.io/publication/2026-01-12-GCA-Nb">Read More</a>
+    </span>
+</div>
